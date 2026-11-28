@@ -1,0 +1,167 @@
+SCP FIELD OPERATIONS - PRIVACY POLICY
+
+Last updated: 28 November 2026
+
+This Privacy Policy explains what information the game SCP Field Operations
+(the "Game") uses, why, who it is shared with, and what rights you have.
+
+1. WHO WE ARE
+
+The Game is published by Czikai Máté Gábor, a private individual, under the
+name "DMS Project" ("we", "us"). We are the data controller for the
+information described in this policy.
+
+Contact (privacy questions and requests): rexhun999@yahoo.ro
+
+2. THE SHORT VERSION
+
+- We do not run our own servers and we do not keep a database about you.
+- We do not sell your data, show ads, or use analytics or tracking tools.
+- Multiplayer runs through Steam. One player hosts the session and the others
+  connect to them.
+- Voice chat is sent live to the other players in your session. It is not
+  recorded or saved by us.
+- If you use the Discord features, Discord receives the information described
+  in section 3.4.
+
+3. WHAT INFORMATION IS USED AND WHY
+
+3.1 Steam
+The Game uses Steamworks (Valve Corporation) for the Steam overlay,
+friends, lobbies, invites and multiplayer networking. The Game uses your
+Steam ID and your Steam name to:
+- show your name to the other players in your session (for example above
+  your character),
+- create and join multiplayer lobbies and send game data between players.
+Multiplayer traffic uses Steam's networking. When you join through Steam,
+your connection normally goes through Valve's relay network, so other
+players do not see your IP address. If you join a session directly by IP
+address or on a local network, the host can see your IP address.
+How Valve handles your data is described in Valve's privacy policy:
+https://store.steampowered.com/privacy_agreement/
+
+3.2 Gameplay data shared with other players
+While you play together, the Game sends the information needed to play to
+the other players in your session: for example your character's position,
+movement, actions, items, health, and your in-game settings that affect
+what others see (such as your selected character). This data exists only
+for the duration of the session and is not stored by us.
+
+3.3 Voice chat
+If voice chat is enabled, the Game uses your microphone:
+- Only while voice chat is on (open mic, or while you hold the push-to-talk
+  key), and never while the microphone is switched off in the settings.
+- Echo cancellation and noise reduction run on your own computer.
+- Your voice is compressed and sent live to the other players in your
+  session (through the session host). Other players hear it as part of the
+  game, for example from your character's position or through in-game
+  radios.
+- We do not record, store or analyse voice chat.
+- In-game monsters can react to how loud you are. This is calculated on the
+  computers in the session and is not stored.
+- Some game mechanics (for example a monster that imitates voices) may keep
+  short snippets of voice audio in memory during a match, and may play them
+  back to the players in that match. These snippets are discarded when the
+  match ends and are never saved to disk or sent to us. You can turn this
+  off in the settings ("MIMIC MAY USE MY VOICE").
+You can switch voice chat or your microphone off in the settings at any
+time.
+
+3.4 Discord (optional)
+If Discord is running on your computer, or you choose to connect your
+Discord account, the Game uses the Discord Social SDK (Discord Inc.) for:
+- Rich Presence: Discord shows your friends that you are playing the Game
+  and what you are doing in it (for example "In the van" or "On a mission").
+- Friends and invites: you can see your Discord friends in the Game and
+  invite them to your session, or join a session they invited you to.
+For this the Game receives from Discord your Discord user ID, username,
+display name and profile picture, your Discord friends list and their
+online status, and sends your game activity to Discord. This information is
+used only inside the Game while it runs. We do not store it.
+You can disconnect the Game from your Discord account at any time in
+Discord's settings (User Settings > Authorized Apps), and you can turn off
+activity sharing in Discord's settings.
+How Discord handles your data is described in Discord's privacy policy:
+https://discord.com/privacy
+
+3.5 Music you share in the game
+The Game lets you play your own music files from a folder on your computer
+with an in-game item. When you play a song, that file is sent to the other
+players in your session so they can hear it, and it is kept in a temporary
+cache on their computers. Only share files you are allowed to share (see
+the Terms of Service).
+
+3.6 Information stored on your own computer
+The Game stores your settings (graphics, audio, controls, key bindings,
+voice settings, selected character), your game progress, and log files on
+your own computer. This data stays on your computer and is not sent to us.
+Some of it (for example your settings or Steam name in a log file) may
+include personal information, and you can delete it at any time by deleting
+the Game's data folders.
+
+4. LEGAL BASIS (EU / EEA)
+
+We use the information above:
+- to provide the Game and its multiplayer features you choose to use
+  (performance of our agreement with you, Article 6(1)(b) GDPR),
+- for voice chat and the Discord features, based on your choice to use
+  them, which you can withdraw at any time by turning them off (consent,
+  Article 6(1)(a) GDPR),
+- to keep the Game working and secure, for example to prevent cheating or
+  abuse in a session (legitimate interest, Article 6(1)(f) GDPR).
+
+5. WHO WE SHARE INFORMATION WITH
+
+- Other players in your multiplayer session, as described in section 3.
+- Valve Corporation (Steam), as the platform the Game runs on.
+- Discord Inc., only if you use the Discord features.
+We do not sell, rent or share your information with anyone else.
+Valve and Discord are based in the United States, so information they
+process may be transferred outside the EU/EEA under their own safeguards.
+
+6. HOW LONG INFORMATION IS KEPT
+
+We do not keep any of the information described in this policy on our
+side. Session data, voice and shared music exist only while the session
+runs (shared music may remain in the other players' temporary cache until
+it is cleared). Data on your computer stays until you delete it. Valve and
+Discord keep data according to their own policies.
+
+7. CHILDREN
+
+The Game is not intended for children under 13, and you must be at least 13
+years old to play. If you are under 16 and live in the EU/EEA, ask a parent
+or guardian before using voice chat or connecting your Discord account. If
+you believe a child under 13 has given us personal information, contact us
+and we will help remove it.
+
+8. YOUR RIGHTS
+
+If you live in the EU/EEA, you have the right to ask for access to,
+correction of, or deletion of your personal data, to restrict or object to
+its use, to data portability, and to withdraw consent at any time. Because
+we do not store data about you, in most cases there will be nothing for us
+to hand over or delete, but you can always contact us at
+rexhun999@yahoo.ro and we will answer within one month.
+You also have the right to lodge a complaint with a data protection
+authority. In Romania this is the National Supervisory Authority for
+Personal Data Processing (ANSPDCP), https://www.dataprotection.ro/ - or the
+authority of the EU country where you live.
+
+9. SECURITY
+
+Multiplayer traffic through Steam is encrypted by Steam's networking. Keep
+in mind that other players in your session receive the information listed
+in section 3, so only play and talk with people you trust.
+
+10. CHANGES TO THIS POLICY
+
+If the Game starts using information in a new way (for example automatic
+crash or bug reports), we will update this policy before that change is
+released and change the "Last updated" date above. The latest version is
+always available at the address where you found this policy.
+
+11. CONTACT
+
+Czikai Máté Gábor (DMS Project)
+E-mail: rexhun999@yahoo.ro

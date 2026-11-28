@@ -1,0 +1,131 @@
+SCP FIELD OPERATIONS - TERMS OF SERVICE
+
+Last updated: 28 November 2026
+
+These Terms of Service ("Terms") apply to the game SCP Field Operations (the
+"Game"), published by Czikai Máté Gábor, a private individual, under the
+name "DMS Project" ("we", "us"). By installing or playing the Game you agree
+to these Terms. If you do not agree, do not play the Game.
+
+1. WHO MAY PLAY
+
+You must be at least 13 years old to play the Game. If you are under the age
+of majority where you live, a parent or guardian must agree to these Terms
+for you.
+
+2. PURCHASE AND STEAM
+
+The Game is distributed through Steam. Purchases, refunds and your Steam
+account are governed by the Steam Subscriber Agreement and Valve's refund
+policy, not by these Terms. To play you also need to follow the rules of
+Steam and, if you use the Discord features, the rules of Discord.
+
+3. YOUR LICENCE TO USE THE GAME
+
+We give you a personal, non-exclusive, non-transferable, revocable licence
+to install and play the Game for your own non-commercial use, on the terms
+of these Terms and of Steam.
+You may not:
+- copy, sell, rent or redistribute the Game or its files,
+- reverse engineer, decompile or modify the Game, except where the law
+  allows this,
+- use cheats, hacks, bots, or tools that give an unfair advantage or
+  disrupt other players' sessions,
+- use the Game in a way that breaks the law.
+You may make videos, streams and screenshots of the Game and you may
+monetise them, as long as you do not claim the Game as your own.
+
+4. EARLY ACCESS AND TEST VERSIONS
+
+The Game may be in development. Features can change, be added or be
+removed, and progress may sometimes be lost or reset. Test and early
+versions may contain bugs.
+
+5. ONLINE PLAY AND BEHAVIOUR
+
+The Game has multiplayer and voice chat. In multiplayer, one player hosts
+the session and the other players connect to them. When you play with
+others:
+- do not harass, threaten, insult or discriminate against other players,
+- do not share content that is illegal, sexual, hateful or violent in real
+  life, or that breaks someone else's rights,
+- do not share other people's personal information,
+- do not deliberately crash, lag or disrupt other players' sessions.
+Hosts can remove players from their own sessions. We do not monitor voice
+chat. If someone breaks these rules, you can mute or leave them, block them
+on Steam or Discord, and report them through Steam or Discord.
+
+6. YOUR CONTENT
+
+Things you send to other players in the Game - your voice, your name, music
+files you play, and anything you draw or write in the Game - are your
+responsibility.
+- Only share music and other files that you own or are allowed to share.
+  Music you play in the Game is sent to the other players in your session.
+- You keep the rights to your content. You allow the Game to transmit and
+  play it to the other players in your session while you play.
+
+7. THIRD-PARTY SERVICES
+
+The Game uses services from other companies, such as Steam (Valve
+Corporation) and Discord (Discord Inc.). We are not responsible for these
+services, and their own terms and privacy policies apply to them.
+
+8. SCP CONTENT AND INTELLECTUAL PROPERTY
+
+The Game is based on the SCP Foundation universe. Content derived from the
+SCP Wiki (https://scp-wiki.wikidot.com/) is used under the Creative Commons
+Attribution-ShareAlike 3.0 licence (CC BY-SA 3.0). The Game is not
+affiliated with or endorsed by the SCP Wiki. The credits and third-party
+notices of the Game list the authors and licences of the content and
+software it uses.
+Except for content licensed by others, the Game and its code, models,
+sounds and other content belong to us or our licensors.
+
+9. ENDING YOUR LICENCE
+
+You can stop playing and uninstall the Game at any time. Your licence ends
+automatically if you seriously or repeatedly break these Terms.
+
+10. NO WARRANTY
+
+The Game is provided "as is" and "as available". As far as the law allows,
+we do not promise that the Game will be free of errors, that it will always
+be available, or that it will work on every computer or network.
+
+11. LIABILITY
+
+As far as the law allows, we are not liable for indirect or consequential
+damage, or for loss of data, progress or profits, arising from your use of
+the Game or from the behaviour of other players. Our total liability to you
+is limited to the amount you paid for the Game. Nothing in these Terms
+limits liability that cannot be limited by law, for example for intent or
+gross negligence, or for death or personal injury caused by negligence.
+
+12. CONSUMER RIGHTS
+
+If you are a consumer in the EU/EEA, you keep all the rights given to you by
+the mandatory consumer protection laws of the country where you live.
+Nothing in these Terms takes those rights away.
+
+13. PRIVACY
+
+How the Game uses personal information is described in our Privacy Policy,
+available at the same address as these Terms.
+
+14. CHANGES TO THESE TERMS
+
+We may update these Terms, for example when the Game gets new features. The
+"Last updated" date above shows the latest change. If you keep playing after
+a change, the new Terms apply to you.
+
+15. GOVERNING LAW
+
+These Terms are governed by the laws of Romania. Disputes will be handled by
+the competent courts of Romania, unless the mandatory law of the country
+where you live as a consumer gives you the right to go to court there.
+
+16. CONTACT
+
+Czikai Máté Gábor (DMS Project)
+E-mail: rexhun999@yahoo.ro
